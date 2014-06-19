@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Scientist Coursera COurse Repo
+Data Scientist Coursera Course Repo
